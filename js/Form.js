@@ -14,8 +14,8 @@ class Form {
   }
 
   display(){
-    this.title.html("Car Racing Game");
-    this.title.position(displayWidth/2 - 50, 0);
+    this.title.html("Multiplayer Car Racing Game");
+    this.title.position(displayWidth/2 - 80, 0);
 
     this.input.position(displayWidth/2 - 40 , displayHeight/2 - 80);
     this.button.position(displayWidth/2 + 30, displayHeight/2);
